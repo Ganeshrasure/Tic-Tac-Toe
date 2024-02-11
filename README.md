@@ -29,7 +29,7 @@ This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript.
 ## Folder Structure
 
 tic-tac-toe/
-│
-├── index.html # Main HTML file for the game
-├── styles.css # CSS file for styling
+│<br/>
+├── index.html # Main HTML file for the game <br/>
+├── styles.css # CSS file for styling <br/> 
 └── script.js # JavaScript file for game logic and interactivity
